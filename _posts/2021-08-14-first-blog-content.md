@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 categories:
   - Test Category
 tags:
@@ -8,6 +8,7 @@ tags:
 title: "This is first blog content."
 toc: true
 ---
+
 
 ## This is first document on github blog
   - I created this blog for logging my study progress
